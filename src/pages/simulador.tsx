@@ -225,7 +225,7 @@ export default function Simulador() {
           </div>
           <button
             onClick={handleLogout}
-            className="bg-red-500 hover:bg-red-600 text-black px-6 py-3 rounded-xl font-semibold transition-all duration-300 hover:transform hover:scale-105"
+            className="bg-red-500 hover:bg-red-600 text-white px-6 py-3 rounded-xl font-semibold transition-all duration-300 hover:transform hover:scale-105"
           >
             ↗️ Sair
           </button>
